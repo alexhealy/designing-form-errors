@@ -6,7 +6,6 @@ html {
   color: #999;
 }
 
-.is-validated input:invalid,
 .is-validated input[type="checkbox"]:invalid + label::before,
 .is-validated input:invalid,
 .is-validated[type="checkbox"]:invalid + label::before {
